@@ -4,12 +4,11 @@ Implement an ETL process to Load Supermarket Sales Data from cloud storage and p
 
 Tech Stack:
 
-AWS S3: To store processed data
-Snowflake: Data warehouse
-Snowpipe: To automate data loading
-Power BI: For Data Visulization
+AWS S3: To store processed data,
+Snowflake: Data warehouse,
+Snowpipe: To automate data loading,
+Power BI: For Data Visulization.
 
 Prerequisites:
-
-Basic knowledge on SQL
-AWS account and basic knowledge cloud concepts
+Basic knowledge on SQL.
+AWS account and basic knowledge cloud concepts.
